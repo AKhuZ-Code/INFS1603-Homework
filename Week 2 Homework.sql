@@ -1,7 +1,17 @@
--- Course Code: INFS1603
--- Tutorial Session: T18A (Tuesday 6pm-8pm)
--- File Name: "Week 2 Homework"
--- Author: Jason Khu (z5254974)
+/*
+
+Course Code: INFS1603
+Teaching Period: 2020 Term 3
+Tutorial Session: T18A (Tuesday 6pm-8pm)
+Author: Jason Khu (z5254974)
+
+File Name: "Week 2 Homework"
+Topic Covered: 
+	- 1A - Basic SQL Statements
+	- 1B - Restricting Rows and Sorting Data
+Description: My code for the homework due on Week 2 - based on content from week 1
+
+*/
 
 SELECT *
 FROM zjlb_books;
