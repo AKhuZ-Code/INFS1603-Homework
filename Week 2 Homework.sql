@@ -47,3 +47,4 @@ FROM zjlb_orderitems;
 
 SELECT order#, item#, isbn, quantity, paideach, quantity * paideach AS "Item Total"
 FROM zjlb_orderitems;
+-- 6
