@@ -6,7 +6,7 @@ Tutorial Session: T18A (Tuesday 6pm-8pm)
 Author: Jason Khu (z5254974)
 
 File Name: "Week 2 Homework"
-Topic Covered: 
+Topics Covered: 
 	- 1A - Basic SQL Statements
 	- 1B - Restricting Rows and Sorting Data
 Description: My code for the homework due on Week 2 - based on content from week 1
